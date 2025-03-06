@@ -103,7 +103,7 @@ Comprehensive hotel management platform with ML predictions.
 - **Features**: Cancellation prediction (84% accuracy), price optimization (R² 0.75), hotel star classification
 - **Website**: [Website](https://hotel-analytics.streamlit.app)
 
-### ✍️ [Historia Generator](https://github.com/germangarest/generador_historias_API)
+### ✍️ [Story Generator](https://github.com/germangarest/generador_historias_API)
 Interactive story generation app using various LLMs.
 - **Technologies**: Gradio, LLMs (Llama, Gemma, Mistral, Qwen)
 - **Features**: Customizable characters, settings, plot elements, creative parameters
