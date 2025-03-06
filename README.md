@@ -108,7 +108,7 @@ Interactive story generation app using various LLMs.
 - **Technologies**: Gradio, LLMs (Llama, Gemma, Mistral, Qwen)
 - **Features**: Customizable characters, settings, plot elements, creative parameters
 - **Results**: Professional-quality creative writing with downloadable stories
-- **Website**: [Website](https://history.germange.com/)
+- **Website**: [Website](https://story.germange.com/)
 
 ### 🧬 [ML-Diabetes](https://github.com/germangarest/ML-Diabetes)
 Diabetes prediction system using machine learning classification.
