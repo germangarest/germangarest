@@ -113,7 +113,8 @@ Interactive story generation app using various LLMs.
 ### 🧬 [ML-Diabetes](https://github.com/germangarest/ML-Diabetes)
 Diabetes prediction system using machine learning classification.
 - **Technologies**: RandomForest, Scikit-learn, Pandas
-- **Features**: Multi-class prediction (no diabetes, prediabetes, diabetes)
+- **Features**: prediction (no diabetes, diabetes)
+- **Website**: [Website](https://diabetes.germange.com)
 
 ## 📊 Other Projects
 
