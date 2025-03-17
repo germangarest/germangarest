@@ -110,11 +110,11 @@ Interactive story generation app using various LLMs.
 - **Results**: Professional-quality creative writing with downloadable stories
 - **Website**: [Website](https://story.germange.com/)
 
-### 🧬 [ML-Diabetes](https://github.com/germangarest/ML-Diabetes)
-Diabetes prediction system using machine learning classification.
-- **Technologies**: RandomForest, Scikit-learn, Pandas
-- **Features**: prediction (no diabetes, diabetes)
-- **Website**: [Website](https://diabetes.germange.com)
+### 🤖 [AutoGen_chatting](https://github.com/germangarest/AutoGen_chatting)
+Interactive AI agents chat application where two AI personalities converse on user-defined topics.
+- **Technologies**: Python Flask, AutoGen, Mistral AI, JavaScript, CSS3, HTML5
+- **Features**: 7 unique AI personalities, WhatsApp-style interface, typing animations, sound effects, downloadable conversations
+- **Website**: [Website](https://agents.germange.com)
 
 ## 📊 Other Projects
 
@@ -123,6 +123,7 @@ Diabetes prediction system using machine learning classification.
 - 📧 [Spam Classifier](https://github.com/germangarest/clasificador_spam) - ML-based spam detection system
 - 🖼️ [Image Classifier](https://github.com/germangarest/ejemplo_jax) - CIFAR-10 classifier using JAX and Flax
 - 🧠 [Neural Simulator](https://github.com/germangarest/neurona_artificial_2) - Interactive artificial neuron simulation
+- 🧬 [ML-Diabetes](https://github.com/germangarest/ML-Diabetes) - Diabetes prediction system using machine learning classification.
 
 ## 📈 GitHub Stats
 
