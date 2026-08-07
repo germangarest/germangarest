@@ -1,6 +1,7 @@
 # Hi, I'm Germán García Estévez 👋
 
-I'm an AI and Big Data enthusiast currently pursuing a Master's in Artificial Intelligence and Big Data at CPIFP Alan Turing. My passion lies in developing intelligent systems that can solve real-world problems through data analysis and machine learning.
+AI / LLM Developer building Generative AI, agentic and Machine Learning applications. Currently working at Accenture and pursuing a Computer Engineering degree at UOC.
+Generative AI · LLMs · AI Agents · RAG · Python · MLOps · AWS · Computer Vision
 
 ## 🧠 About Me
 
